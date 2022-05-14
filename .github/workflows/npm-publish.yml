@@ -27,4 +27,6 @@ jobs:
           node-version: 16
           registry-url: https://docker-verdaccio-topkee-npm-registry.apps.v6fj.hk.topkee.top/
       - run: npm ci
-      - run: npm run pub
+      - run: npm publish
+      - env:
+          NODE_AUTH_TOKEN: 8uUcUYYh5Sh4ktmtR+Yg7gO+cmLKxQqRqmgom/xV4Y8=

@@ -1,0 +1,25 @@
+{
+  "name": "topkee-npm-package-sample",
+  "version": "1.0.0",
+  "description": "This is a sample for how to develop npm package in topkee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TopkeeMedia/topkee-npm-package-sample.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "jianping.liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TopkeeMedia/topkee-npm-package-sample/issues"
+  },
+  "homepage": "https://github.com/TopkeeMedia/topkee-npm-package-sample#readme",
+  "dependencies": {
+    "topkee-npm-package-sample": "^1.0.0"
+  }
+}

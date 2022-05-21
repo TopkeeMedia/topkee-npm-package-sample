@@ -1,6 +1,6 @@
 {
   "name": "topkee-npm-package-sample",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a sample for how to develop npm package in topkee",
   "main": "index.js",
   "scripts": {
